@@ -67,6 +67,8 @@ Here are some references I use to learn and improve:
 * [C Programming Language – GeeksforGeeks](https://www.geeksforgeeks.org/c-programming-language/)
 * [C Programming – Tutorials Point](https://www.tutorialspoint.com/cprogramming/index.htm)
 * [Learn C – Programiz](https://www.programiz.com/c-programming)
+* [![YouTube Playlist](https://img.shields.io/badge/YouTube-C_Bro_Code-red?logo=youtube)](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID)
+* [![W3Schools](https://img.shields.io/badge/W3Schools-Learn-green?logo=w3schools)](https://www.w3schools.com)
 
 ---
 
