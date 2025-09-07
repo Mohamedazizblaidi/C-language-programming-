@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+int main(void)
 {
     printf("From microscope to machine, we see, \n");
     printf("The wonders of biology and technology \n");
