@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/badge/license-Apache%202.0-lightgrey.svg)](https://opensource.org/licenses/Apache-2.0)
 
 Welcome to my **C Programming Repository** 🎉
-This repo is my personal space to **revise, memorize, and store all my C language code, examples, and notes**.
+This repo is my personal space to **revise, memorize, and store all my C language code, books, examples, and notes**.
 It’s designed to help me strengthen my **programming fundamentals** and track my learning journey.
 
 ---
