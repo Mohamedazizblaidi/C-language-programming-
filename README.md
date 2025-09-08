@@ -68,7 +68,7 @@ Here are some references I use to learn and improve:
 - [C Programming – Tutorials Point](https://www.tutorialspoint.com/cprogramming/index.htm)
 - [Learn C – Programiz](https://www.programiz.com/c-programming)
 - [YouTube Playlist - C Bro Code](https://www.youtube.com/playlist?list=PLZPZq0r_RZOOzY_vR4zJM32SqsSInGMwe)
-- [W3Schools](https://www.w3schools.com)
+- [W3Schools](https://www.w3schools.com/c/index.php)
 
 
 ---
